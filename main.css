@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+}
+
+#plane-image {
+    position: absolute;
+}
+
+.plane1 {
+    top: 100;
+    left: 5;
+}
+
+.plane2 {
+    top: 100;
+    left: 105;
+}
+
+.plane3 {
+    top: 100;
+    left: 205;
+}
+
+.plane4 {
+    top: 100;
+    left: 305;
+}
+
+.plane5 {
+    top: 100;
+    left: 405;
+}
